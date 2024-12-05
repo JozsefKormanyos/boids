@@ -1,0 +1,3 @@
+Instructions:
+-Hold left click to make boids avoid the cursor.
+-Press spacebar to force boids to scatter.
